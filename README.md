@@ -135,7 +135,7 @@ One Work 的生态正是为解决你的问题而生，Web 应用的开发是一�
 * [上海拓体信息科技有限公司](http://www.tallty.com)：深耕教务管理、房地产行业的技术服务公司
 * [一餐之计](https://meal.design)：餐饮行业数字化新方案，对餐饮店家无抽佣
 * [几分姿色](https://jifenzise.com)：美业行业数字化方案
-* [熟人司机](https://shurensiji.com):
+* [邻里生活](https://linlishenghuo.com):  免费好用的 ERP 系统，下单助手
 
 如果你希望基于 One Work 提供的组件来打造属于自己的公司和项目，亦或者是成为自由职业者，尽请提交 [issue](https://github.com/work-design/home/issues)，我们会将你加入到这个列表当中。
 
