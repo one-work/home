@@ -133,7 +133,7 @@ One Work 的生态正是为解决你的问题而生，Web 应用的开发是一�
 * [One Work](https://one.work)：定位于服务小微型企业，为自由职业者提供平台，基于 One Work 技术栈孵化的开源项目，旨在打造下一代企业管理系统
 * [武汉有个想法软件咨询有限公司](https://yougexiangfa.com)：基于 One Work 技术栈孵化的技术服务公司
 * [上海拓体信息科技有限公司](http://www.tallty.com)：深耕教务管理、房地产行业的技术服务公司
-* [一餐之计](https://meal.design)：餐饮行业数字化新方案，对餐饮店家无抽佣
+* [一餐之计](https://yicanzhiji.com)：餐饮行业数字化新方案，对餐饮店家无抽佣
 * [几分姿色](https://jifenzise.com)：美业行业数字化方案
 * [邻里生活](https://linlishenghuo.com):  免费好用的 ERP 系统，下单助手
 
